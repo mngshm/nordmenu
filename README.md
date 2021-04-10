@@ -2,10 +2,10 @@
 My patchings for dmenu with nord colorscheme 
 
 Instalation : 
-git clone https://github.com/Mangeshrex/Nordic-dmenu-dots
+```git clone https://github.com/Mangeshrex/Nordic-dmenu-dots```
 
-cd Nordic-dmenu-dots 
+```cd Nordic-dmenu-dots``` 
 
-sudo make clean install 
+```sudo make clean install```
 
 
