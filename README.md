@@ -7,5 +7,3 @@ My patchings for dmenu with nord colorscheme
 ```cd Nordic-dmenu-dots``` 
 
 ```sudo make clean install```
-
-## Screenshot 
